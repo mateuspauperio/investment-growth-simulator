@@ -1,33 +1,44 @@
-# Carteira de Investimentos
+# Investment Growth Simulator
 
-Planilha desenvolvida em Excel para simular o crescimento de uma carteira de investimentos em Fundos de Investimento Imobiliário (FIIs).
+An Excel spreadsheet designed to simulate the growth of an investment portfolio focused on Brazilian Real Estate Investment Funds (FIIs).
 
-## Funcionalidades
+The project helps users explore long-term investment scenarios, estimate potential dividend income, and organize contributions across different FII categories.
 
-- Simulação do patrimônio com aportes mensais.
-- Comparação de cenários de investimento de 2 a 30 anos.
-- Estimativa de dividendos mensais com base em uma taxa definida pelo usuário.
-- Distribuição dos aportes entre categorias de FIIs.
-- Configuração de diferentes perfis de distribuição: conservador, moderado e agressivo.
+## Features
 
-## Como utilizar
+- **Portfolio growth simulation:** Estimate portfolio growth based on monthly contributions and an assumed rate of return.
+- **Long-term projections:** Compare investment scenarios over periods ranging from 2 to 30 years.
+- **Dividend income estimation:** Estimate potential monthly dividend income based on an assumed yield.
+- **Portfolio allocation:** Organize contributions across different categories of Real Estate Investment Funds (FIIs).
+- **Investment profiles:** Explore conservative, moderate, and aggressive allocation strategies.
 
-1. Baixe o arquivo da planilha.
-2. Abra-o no Microsoft Excel ou em um programa compatível.
-3. Preencha os valores de aporte mensal, prazo e taxas utilizadas na simulação.
-4. Selecione o perfil de distribuição para visualizar a sugestão de divisão dos aportes.
+## How to Use
 
-## Tecnologias e conceitos
+1. Download the Excel spreadsheet from this repository.
+2. Open the file using Microsoft Excel or a compatible spreadsheet application.
+3. Enter the monthly contribution amount, investment period, and assumed rates of return.
+4. Select an investment profile and review the projected results.
+
+## Tools and Concepts
 
 - Microsoft Excel
-- Fórmulas financeiras
-- Projeção de cenários
-- Organização e distribuição de valores
+- Financial formulas
+- Investment scenario modeling
+- Portfolio allocation
+- Long-term financial projections
 
-## Limitações
+## Limitations
 
-Os resultados são estimativas matemáticas baseadas nas taxas informadas. Não representam garantias de rentabilidade ou de dividendos futuros. A simulação deve ser interpretada considerando que fatores como inflação, impostos, taxas e variações de mercado podem alterar os resultados reais.
+All results are mathematical estimates based on user-defined assumptions. They do not guarantee investment returns or future dividend payments.
 
-## Objetivo do projeto
+The simulations may not account for inflation, taxes, transaction costs, market volatility, or changes in investment yields.
 
-Praticar a criação de uma ferramenta de planejamento financeiro, utilizando fórmulas, parâmetros configuráveis e simulações de longo prazo.
+This spreadsheet is intended for educational and planning purposes only and should not be considered financial advice.
+
+## Project Goal
+
+To develop a practical financial planning tool using spreadsheet formulas, configurable parameters, and long-term investment simulations.
+
+---
+
+*Developed by Mateus Campos Pauperio.*
